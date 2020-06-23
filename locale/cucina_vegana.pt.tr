@@ -1,0 +1,193 @@
+# textdomain: cucina_vegana
+
+
+### asparagus_default.lua ###
+### asparagus_redo.lua ###
+### chives_default.lua ###
+### chives_redo.lua ###
+### flax_default.lua ###
+### flax_redo.lua ###
+### kohlrabi_default.lua ###
+### kohlrabi_redo.lua ###
+### lettuce_default.lua ###
+### lettuce_redo.lua ###
+### parsley_default.lua ###
+### parsley_redo.lua ###
+### peanut_default.lua ###
+### peanut_redo.lua ###
+### rice_default.lua ###
+### rice_redo.lua ###
+### rosemary_default.lua ###
+### rosemary_redo.lua ###
+### soy_default.lua ###
+### soy_redo.lua ###
+### sunflower_default.lua ###
+### sunflower_redo.lua ###
+
+Seed=Semente
+
+### asparagus_default.lua ###
+### asparagus_redo.lua ###
+### items.lua ###
+
+# textdomain: cucina_vegana
+Asparagus=Espargos
+
+### asparagus_default.lua ###
+### chives_default.lua ###
+### flax_default.lua ###
+### kohlrabi_default.lua ###
+### lettuce_default.lua ###
+### parsley_default.lua ###
+### peanut_default.lua ###
+### rice_default.lua ###
+### rosemary_default.lua ###
+### soy_default.lua ###
+### sunflower_default.lua ###
+
+Wild=Selvagem
+
+### asparagus_redo.lua ###
+### chives_redo.lua ###
+### flax_redo.lua ###
+### kohlrabi_redo.lua ###
+### lettuce_redo.lua ###
+### parsley_redo.lua ###
+### peanut_redo.lua ###
+### rice_redo.lua ###
+### rosemary_redo.lua ###
+### soy_redo.lua ###
+### sunflower_redo.lua ###
+
+Wild =Selvagem 
+
+### chives_default.lua ###
+### chives_redo.lua ###
+### items.lua ###
+
+Chives=Cebolinha
+
+### flax_default.lua ###
+### flax_redo.lua ###
+### items.lua ###
+
+Flax=Linhassa
+
+### items.lua ###
+
+Blueberry pot=Pote de Mirtilo
+Blueberry pot (cooked)=Pote de Mirtilo (Cozido)
+Blueberry purree=Purê de Mirtilo,
+Ciabatta dough=Massa de Ciabatta
+Dandelion Honey=Mel de Dente-de-leão 
+Dandelion Suds=Espuma de Dente-de-leão 
+Dandelion Suds (cooking)=Espuma de Dente-de-leão (Cozida)
+Flax (raw)=Linhassa (Crua)
+Imitation Butter=Manteiga Vegana
+Imitation Cheese=Queijo Vegano
+Imitation Fish=Peixe Vegano
+Imitation Meat=Carne Vegana
+Imitation poultry=Frango Vegano
+Molasses=Melaço
+Pizzadough=Massa de Pizza
+Rice Flour=Farinha de Arroz
+Rice Starch=Amido de Arroz
+Roasted Kohlrabi=Couve-rábano (Assada)
+Roasted Sunflower Seeds=Semente de Girassol (Assada)
+Rosemary Twig=Galho de Alecrim
+Soy Bean=Bagas de Soja
+Soy Milk=Leite de Soja
+Sunflower Seeds=Semente de Girassol
+Sunflower Seeds Bread=Pão deSemente de Girassol
+Sunflower Seeds Dough=Massa de Semente de Girassol
+Sunflower Seeds Flour=Farinha de Semente de Girassol
+Tofu=Tofu
+Tofu (raw)=Tofu (Cru)
+Vegan Sushi=Sushi Vegano
+
+### items.lua ###
+### kohlrabi_default.lua ###
+### kohlrabi_redo.lua ###
+
+Kohlrabi=Couve-rábano
+
+### items.lua ###
+### lettuce_default.lua ###
+### lettuce_redo.lua ###
+
+Lettuce=Alface
+
+### items.lua ###
+### parsley_default.lua ###
+### parsley_redo.lua ###
+
+Parsley=Salsinha
+
+### items.lua ###
+### peanut_default.lua ###
+### peanut_redo.lua ###
+
+Peanut=Amendoim
+
+### items.lua ###
+### rice_default.lua ###
+### rice_redo.lua ###
+
+Rice=Arroz
+
+### items.lua ###
+### sunflower_default.lua ###
+### sunflower_redo.lua ###
+
+Sunflower=Girassol
+
+### nodes.lua ###
+
+Asparagus Hollandaise=Espargos Holandeses
+Asparagus Hollandaise (raw)=Espargos Holandeses (Cru)
+Asparagus Soup=Sopa de Espargos
+Asparagus Soup (raw)=Sopa de Espargos (crua)
+Asparagus on Rice=Rizoto de Espargos
+Asparagus on Rice (raw)=Rizoto de Espargos (cru)
+Blueberry Jam=Geléia de Mirtilo
+Bottle of Flaxseed Oil=Garrafa de Oleo de Linhassa
+Bottle of Peanut Oil=Garrafa de Oleo de Amendoim
+Bottle of Sunflower Seeds Oil=Garrafa de Oleo de Girassol
+Bowl of Rice=Tigela de Arroz
+Bowl of Rice (raw)=Tigela de Arroz Cru
+Ciabatta Bread=Pão Ciabatta
+Edamame=Edamame
+Edamame (raw)=Edamame (crua)
+Fish on Parsley and Rosemary=Peixe com Salsa e Alecrim
+Fish on Parsley and Rosemary (raw)=Peixe com Salsa e Alecrim (cru)
+Fryer=Fritada
+Fryer (raw)=Fritada (crua)
+Glass Bowl=Tigela de Vidro
+Glass Salad Bowl=Salada em Tigela de Vidro
+Kohlrabi Soup=Sopa de couve-rábano
+Kohlrabi Soup (raw)=Sopa de couve-rábano (crua)
+Mushroomlight Glass=Luminaria de Vidro de Cogumelo
+Peanut Butter=Manteiga de Amendoim
+Pizza Funghi=Pizza Cogumelo Funghi
+Pizza Funghi (raw)=Pizza Cogumelo Funghi (crua)
+Pizza Vegana=Pizza Vegana
+Pizza Vegana (raw)=Pizza Vegana (crua)
+Plate=Prato
+Salad Bowl Hollandaise=Tigela de Salada Holandeza
+Salad Oil=Oleo de Salada
+Sauce Hollandaise=Molho Holandes
+Sea Salad Bowl=Tigela de Salad de Frutos do Mar
+Soy Soup=Sopa de Soja
+Soy Soup (raw)=Sopa de Soja (crua)
+Tofu on Chives and Rosemary=Tofu com Cebolinha e Alecrim
+Tofu on Chives and Rosemary (raw)=Tofu com Cebolinha e Alecrim (crua)
+
+### rosemary_default.lua ###
+### rosemary_redo.lua ###
+
+Rosemary=Alecrim
+
+### soy_default.lua ###
+### soy_redo.lua ###
+
+Soy=Soja
