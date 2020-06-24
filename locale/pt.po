@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-28 22:45+0200\n"
-"PO-Revision-Date: 2020-06-24 06:16-0300\n"
+"PO-Revision-Date: 2020-06-24 06:31-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +29,7 @@ msgstr "Espargos"
 #: rosemary_default.lua rosemary_redo.lua soy_default.lua soy_redo.lua
 #: sunflower_default.lua sunflower_redo.lua
 msgid "Seed"
-msgstr "Semente"
+msgstr "Semente de"
 
 #: asparagus_default.lua chives_default.lua flax_default.lua
 #: kohlrabi_default.lua lettuce_default.lua parsley_default.lua
@@ -42,7 +42,7 @@ msgstr "Selvagem"
 #: lettuce_redo.lua parsley_redo.lua peanut_redo.lua rice_redo.lua
 #: rosemary_redo.lua soy_redo.lua sunflower_redo.lua
 msgid "Wild "
-msgstr "Selvagem "
+msgstr "Planta Selvagem de "
 
 #: chives_default.lua chives_redo.lua items.lua
 msgid "Chives"
@@ -50,11 +50,11 @@ msgstr "Cebolinha"
 
 #: flax_default.lua flax_redo.lua items.lua
 msgid "Flax"
-msgstr "Linhaça"
+msgstr "Linhassa"
 
 #: items.lua
 msgid "Blueberry purree"
-msgstr "Purê de Mirtilo"
+msgstr "Pureh de Mirtilo"
 
 #: items.lua
 msgid "Blueberry pot"
@@ -66,19 +66,19 @@ msgstr "Pote de Mirtilo (Cozido)"
 
 #: items.lua
 msgid "Ciabatta dough"
-msgstr "Massa de Ciabatta"
+msgstr "Massa Ciabatta"
 
 #: items.lua
 msgid "Dandelion Honey"
-msgstr "Mel de Dente-de-Leão"
+msgstr "Mel de Dente-de-Leao"
 
 #: items.lua
 msgid "Dandelion Suds"
-msgstr "Espuma de Dente-de-leão "
+msgstr "Espuma de Dente-de-Leao"
 
 #: items.lua
 msgid "Dandelion Suds (cooking)"
-msgstr "Espuma de Dente-de-leão (Cozido)"
+msgstr "Espuma de Dente-de-Leao (Cozido)"
 
 #: items.lua
 msgid "Molasses"
@@ -178,7 +178,7 @@ msgstr "Sementes de Girassol Assadas"
 
 #: items.lua
 msgid "Sunflower Seeds Bread"
-msgstr "Pão de Sementes de Girassol"
+msgstr "Paum de Sementes de Girassol"
 
 #: items.lua
 msgid "Tofu"
@@ -194,7 +194,7 @@ msgstr "Tigela de Vidro"
 
 #: nodes.lua
 msgid "Bottle of Flaxseed Oil"
-msgstr "Garrafa de Oleo de Semente de Linhassa"
+msgstr "Garrafa de Oleo de Linhassa"
 
 #: nodes.lua
 msgid "Mushroomlight Glass"
@@ -210,7 +210,7 @@ msgstr "Prato"
 
 #: nodes.lua
 msgid "Bottle of Sunflower Seeds Oil"
-msgstr "Garrafa de Oleo de Semente de Girassol"
+msgstr "Garrafa de Oleo de Girassol"
 
 #: nodes.lua
 msgid "Blueberry Jam"
@@ -218,7 +218,7 @@ msgstr "Geleia de Mirtilo"
 
 #: nodes.lua
 msgid "Ciabatta Bread"
-msgstr "Pão Ciabatta"
+msgstr "Paum Ciabatta"
 
 #: nodes.lua
 msgid "Edamame (raw)"
@@ -322,11 +322,11 @@ msgstr "Pizza Vegana"
 
 #: nodes.lua
 msgid "Pizza Funghi (raw)"
-msgstr "Pizza Cogumelo Funghi"
+msgstr "Pizza Cogumelo Funghi (crua)"
 
 #: nodes.lua
 msgid "Pizza Funghi"
-msgstr "Pizza Cogumelo Funghi (crua)"
+msgstr "Pizza Cogumelo Funghi"
 
 #: nodes.lua
 msgid "Soy Soup"
