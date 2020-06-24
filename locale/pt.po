@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-28 22:45+0200\n"
-"PO-Revision-Date: 2020-06-22 21:14-0300\n"
+"PO-Revision-Date: 2020-06-24 06:16-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -98,248 +98,248 @@ msgstr "Leite de Soja"
 
 #: items.lua
 msgid "Sunflower Seeds Dough"
-msgstr ""
+msgstr "Massa de Semente de Girassol"
 
 #: items.lua
 msgid "Sunflower Seeds Flour"
-msgstr ""
+msgstr "Farinha de Semente de Girassol"
 
 #: items.lua
 msgid "Tofu (raw)"
-msgstr ""
+msgstr "Tofu (cru)"
 
 #: items.lua
 msgid "Imitation Butter"
-msgstr ""
+msgstr "Manteiga Vegana"
 
 #: items.lua
 msgid "Imitation Cheese"
-msgstr ""
+msgstr "Queijo Vegano"
 
 #: items.lua
 msgid "Imitation Fish"
-msgstr ""
+msgstr "Peixe vegano"
 
 #: items.lua
 msgid "Imitation Meat"
-msgstr ""
+msgstr "Carne Vegana"
 
 #: items.lua
 msgid "Imitation poultry"
-msgstr ""
+msgstr "Frango Vegano"
 
 #: items.lua
 msgid "Flax (raw)"
-msgstr ""
+msgstr "Linhassa"
 
 #: items.lua kohlrabi_default.lua kohlrabi_redo.lua
 msgid "Kohlrabi"
-msgstr ""
+msgstr "Couve-Rabano"
 
 #: items.lua lettuce_default.lua lettuce_redo.lua
 msgid "Lettuce"
-msgstr ""
+msgstr "Alface"
 
 #: items.lua parsley_default.lua parsley_redo.lua
 msgid "Parsley"
-msgstr ""
+msgstr "Salsinha"
 
 #: items.lua peanut_default.lua peanut_redo.lua
 msgid "Peanut"
-msgstr ""
+msgstr "Amendoim"
 
 #: items.lua rice_default.lua rice_redo.lua
 msgid "Rice"
-msgstr ""
+msgstr "Arroz"
 
 #: items.lua
 msgid "Rosemary Twig"
-msgstr ""
+msgstr "Galho de Alecrim"
 
 #: items.lua
 msgid "Soy Bean"
-msgstr ""
+msgstr "Vagem de Soja"
 
 #: items.lua sunflower_default.lua sunflower_redo.lua
 msgid "Sunflower"
-msgstr ""
+msgstr "Girassol"
 
 #: items.lua
 msgid "Sunflower Seeds"
-msgstr ""
+msgstr "Semente de Girassol"
 
 #: items.lua
 msgid "Roasted Kohlrabi"
-msgstr ""
+msgstr "Couve-Rabano Assada"
 
 #: items.lua
 msgid "Roasted Sunflower Seeds"
-msgstr ""
+msgstr "Sementes de Girassol Assadas"
 
 #: items.lua
 msgid "Sunflower Seeds Bread"
-msgstr ""
+msgstr "Pão de Sementes de Girassol"
 
 #: items.lua
 msgid "Tofu"
-msgstr ""
+msgstr "Tofu"
 
 #: items.lua
 msgid "Vegan Sushi"
-msgstr ""
+msgstr "Sushi Vegano"
 
 #: nodes.lua
 msgid "Glass Bowl"
-msgstr ""
+msgstr "Tigela de Vidro"
 
 #: nodes.lua
 msgid "Bottle of Flaxseed Oil"
-msgstr ""
+msgstr "Garrafa de Oleo de Semente de Linhassa"
 
 #: nodes.lua
 msgid "Mushroomlight Glass"
-msgstr ""
+msgstr "Luminaria de Vidro de Cogumelo"
 
 #: nodes.lua
 msgid "Bottle of Peanut Oil"
-msgstr ""
+msgstr "Garrafa de Oleo de Amendoim"
 
 #: nodes.lua
 msgid "Plate"
-msgstr ""
+msgstr "Prato"
 
 #: nodes.lua
 msgid "Bottle of Sunflower Seeds Oil"
-msgstr ""
+msgstr "Garrafa de Oleo de Semente de Girassol"
 
 #: nodes.lua
 msgid "Blueberry Jam"
-msgstr ""
+msgstr "Geleia de Mirtilo"
 
 #: nodes.lua
 msgid "Ciabatta Bread"
-msgstr ""
+msgstr "Pão Ciabatta"
 
 #: nodes.lua
 msgid "Edamame (raw)"
-msgstr ""
+msgstr "Edamame (cru)"
 
 #: nodes.lua
 msgid "Edamame"
-msgstr ""
+msgstr "Edamame"
 
 #: nodes.lua
 msgid "Salad Oil"
-msgstr ""
+msgstr "Oleo de Salada"
 
 #: nodes.lua
 msgid "Peanut Butter"
-msgstr ""
+msgstr "Manteiga de Amendoim"
 
 #: nodes.lua
 msgid "Glass Salad Bowl"
-msgstr ""
+msgstr "Salada em Tigela de Vidro"
 
 #: nodes.lua
 msgid "Sauce Hollandaise"
-msgstr ""
+msgstr "Molho Holandes"
 
 #: nodes.lua
 msgid "Asparagus Hollandaise (raw)"
-msgstr ""
+msgstr "Espargos Holandeses (Cru)"
 
 #: nodes.lua
 msgid "Asparagus on Rice (raw)"
-msgstr ""
+msgstr "Rizoto de Espargos (cru)"
 
 #: nodes.lua
 msgid "Asparagus Soup (raw)"
-msgstr ""
+msgstr "Sopa de Espargos (crua)"
 
 #: nodes.lua
 msgid "Bowl of Rice (raw)"
-msgstr ""
+msgstr "Tigela de Arroz (cru)"
 
 #: nodes.lua
 msgid "Fish on Parsley and Rosemary (raw)"
-msgstr ""
+msgstr "Peixe com Salsa e Alecrim (cru)"
 
 #: nodes.lua
 msgid "Fryer (raw)"
-msgstr ""
+msgstr "Fritada (crua)"
 
 #: nodes.lua
 msgid "Fryer"
-msgstr ""
+msgstr "Fritada"
 
 #: nodes.lua
 msgid "Kohlrabi Soup (raw)"
-msgstr ""
+msgstr "Sopa de Couve-Rabano (crua)"
 
 #: nodes.lua
 msgid "Salad Bowl Hollandaise"
-msgstr ""
+msgstr "Tigela de Salada Holandeza"
 
 #: nodes.lua
 msgid "Soy Soup (raw)"
-msgstr ""
+msgstr "Sopa de Soja (crua)"
 
 #: nodes.lua
 msgid "Tofu on Chives and Rosemary (raw)"
-msgstr ""
+msgstr "Tofu com Cebolinha e Alecrim (crua)"
 
 #: nodes.lua
 msgid "Asparagus Hollandaise"
-msgstr ""
+msgstr "Espargos Holandeses"
 
 #: nodes.lua
 msgid "Asparagus on Rice"
-msgstr ""
+msgstr "Rizoto de Espargos"
 
 #: nodes.lua
 msgid "Asparagus Soup"
-msgstr ""
+msgstr "Sopa de Espargos"
 
 #: nodes.lua
 msgid "Bowl of Rice"
-msgstr ""
+msgstr "Tigela de Arroz"
 
 #: nodes.lua
 msgid "Fish on Parsley and Rosemary"
-msgstr ""
+msgstr "Peixe com Salsa e Alecrim"
 
 #: nodes.lua
 msgid "Kohlrabi Soup"
-msgstr ""
+msgstr "Sopa de Couve-Rabano"
 
 #: nodes.lua
 msgid "Pizza Vegana (raw)"
-msgstr ""
+msgstr "Pizza Vegana (crua)"
 
 #: nodes.lua
 msgid "Pizza Vegana"
-msgstr ""
+msgstr "Pizza Vegana"
 
 #: nodes.lua
 msgid "Pizza Funghi (raw)"
-msgstr ""
+msgstr "Pizza Cogumelo Funghi"
 
 #: nodes.lua
 msgid "Pizza Funghi"
-msgstr ""
+msgstr "Pizza Cogumelo Funghi (crua)"
 
 #: nodes.lua
 msgid "Soy Soup"
-msgstr ""
+msgstr "Sopa de Soja"
 
 #: nodes.lua
 msgid "Tofu on Chives and Rosemary"
-msgstr ""
+msgstr "Tofu com Cebolinha e Alecrim"
 
 #: rosemary_default.lua rosemary_redo.lua
 msgid "Rosemary"
-msgstr ""
+msgstr "Alecrim"
 
 #: soy_default.lua soy_redo.lua
 msgid "Soy"
-msgstr ""
+msgstr "Soja"
